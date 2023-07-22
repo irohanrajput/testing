@@ -1,4 +1,4 @@
-there were 3 files
+there were 4 files
 1.error.log
 2.text1.txt
 3.text2.txt
