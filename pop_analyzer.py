@@ -11,6 +11,6 @@ def analyze():
 analyze()
 
 print(a)
-    
+     
 
 
