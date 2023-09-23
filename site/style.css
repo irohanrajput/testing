@@ -7,6 +7,7 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
+    background-image: linear-gradient(to right, rgba(187, 218, 52, 0), rgb(231, 98, 98));
 }
 
 .container {
@@ -21,10 +22,13 @@ body {
 }
 
 header {
-    background-color: #3498db;
+    background-color: #da5231;
     color: white;
     text-align: center;
     padding: 10px;
+    border-radius: 10px;
+   
+
 }
 
 main {
@@ -39,13 +43,14 @@ section {
     margin-bottom: 20px;
 }
 
-footer {
-    background-color: #3498db;
+.footer {
+    background-image: linear-gradient(to left, rgba(255,0,0,0), rgb(11, 12, 95));
     color: white;
     text-align: center;
     padding: 10px;
-    position: fixed;
+    position: absolute;
     bottom: 0;
+    left: 0;
     width: 100%;
 }
 
